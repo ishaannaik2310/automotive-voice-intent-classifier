@@ -31,3 +31,9 @@ The system uses zero-shot classification to map natural language commands to int
 - Speech-to-text integration
 - Real-time assistant
 - Edge deployment in vehicles
+
+  ## 🚀 Demo
+
+Run locally:
+```bash
+streamlit run app_ui.py
